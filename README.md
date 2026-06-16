@@ -21,11 +21,6 @@
   </a>
 </div>
 <br/>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-winning.vercel.app/?username=1i0ne1&theme=algolia&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
