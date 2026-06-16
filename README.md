@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=1i0ne1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lionel-hue&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -53,30 +53,10 @@ I build production-ready applications with a focus on architecture, performance,
   - 🔗 **Live:** [tulk-phi.vercel.app](https://tulk-phi.vercel.app)
 - 🎓 **[AcademVault](https://github.com/lionel-hue/AcademVault)**: An intelligent academic research platform for discovering, organizing, and sharing academic resources. Features all-in-one search, secure encrypted vaults, and research analytics.
   - 🔗 **Live:** [academvault-front.vercel.app](https://academvault-front.vercel.app)
-- 🏫 **[vDeskConnect](https://github.com/1i0ne1/vDeskConnect)**: A state-of-the-art, multi-tenant SMS & LMS. Built for the modern educational era, it empowers institutions worldwide to manage their entire academic lifecycle with AI-powered tools.
-  - 🔗 **Live:** [v-desk-connect.vercel.app](https://v-desk-connect.vercel.app/)
 - 🛒 **[ViteComm](https://github.com/lionel-hue/ViteComm)**: A full-stack multi-vendor e-commerce marketplace built for the Benin market. Features real-time order tracking, Mobile Money payments (MTN MoMo), role-based dashboards, and a complete delivery logistics system.
   - 🔗 **Live:** [vitecomm.vercel.app](https://vitecomm.vercel.app/)
-
-### 📋 Supplementary Info
-
-| Metric | Value |
-|--------|-------|
-| **Total Projects** | 5 production-ready apps |
-| **Primary Stack** | Laravel, React, Node.js, Vite |
-| **Database Systems** | MySQL, PostgreSQL, MariaDB |
-| **Deployment** | Vercel, Alwaysdata |
-| **Architecture Focus** | Clean Architecture, Multi-tenant, Real-time |
-
----
-
-## 🧠 Technical Highlights
-
-- **System Architecture:** Merise MCD/MLD + UML diagrams for robust data modelling
-- **Multi-role Systems:** Admin, Vendor, Driver, Client dashboards with granular permissions
-- **Payment Integration:** Mobile Money (MTN MoMo API) for seamless African market transactions
-- **Real-time Features:** Live order tracking, notifications, and state management
-- **Responsive Design:** Mobile-first UI built with Tailwind CSS and modern React patterns
+- 🏫 **[vDeskConnect](https://github.com/1i0ne1/vDeskConnect)**: A state-of-the-art, multi-tenant SMS & LMS. Built for the modern educational era, it empowers institutions worldwide to manage their entire academic lifecycle with AI-powered tools.
+  - 🔗 **Live:** [v-desk-connect.vercel.app](https://v-desk-connect.vercel.app/)
 
 ---
 
