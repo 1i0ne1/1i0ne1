@@ -51,7 +51,7 @@ I build production-ready applications with a focus on architecture, performance,
 - 🛒 **[ViteComm](https://github.com/1i0ne1/ViteComm)**: A full-stack multi-vendor e-commerce marketplace built for the Benin market. Features real-time order tracking, Mobile Money payments (MTN MoMo), role-based dashboards, and a complete delivery logistics system.
   - 🔗 **Live:** [vitecomm.vercel.app](https://vitecomm.vercel.app/)
 - 🏫 **[vDeskConnect](https://github.com/1i0ne1/vDeskConnect)**: A state-of-the-art, multi-tenant SMS & LMS. Built for the modern educational era, it empowers institutions worldwide to manage their entire academic lifecycle with AI-powered tools.
-  - 🔗 **Live:** [v-desk-connect.vercel.app](https://v-desk-connect.vercel.app/)
+  - 🔗 **Live:** [vdeskconnect.vercel.app](https://vdeskconnect.vercel.app/)
 
 ---
 
