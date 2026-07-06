@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="img/20250515_200835~2.png" width="50%"/>
+  <img src="img/IMG_20260704_172121_587.jpg" width="50%"/>
 </div>
 
 <!-- Stats & Rankings -->
