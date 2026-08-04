@@ -31,30 +31,27 @@ I specialize in transforming real-world manual processes into efficient software
 I'm constantly evolving my skills to create robust systems based on solid architectural principles.
 
 **I'm also...**
-- Open to collaborations that challenge and expand my abilities
 - A full-stack developer passionate about clean architecture
+- A CRM & ERP SaaS builder — I design multi-tenant platforms for real businesses
+- Practicing CI/CD with GitHub Actions, automated testing, and deployment pipelines
 - An adaptable learner focused on web development and problem-solving
+- Open to collaborations that challenge and expand my abilities
 - Enthusiastic about sci-fi, football, reading, and chess
 
 ---
 
-## 🚀 Featured Projects (Production-Ready)
+## 🚀 What I Build
 
-I build production-ready applications with a focus on architecture, performance, and user experience.
+### CRM & ERP SaaS Platforms
+I build production-ready **CRM** and **ERP SaaS** applications tailored for African markets — handling client management, subscriptions, inventory, sales, invoicing, and AI-powered analytics. Multi-tenant architecture, role-based access, payment gateway integrations (Mobile Money, Wave), and automated notifications (SMS, WhatsApp, Email).
 
-- 🐰 **[CuniApp](https://github.com/lionel-hue/CuniApp)**: A comprehensive SaaS CRM for rabbit breeding management. Built with a robust Laravel backend and a modern React frontend.
-  - 🔗 **Live:** [cuniapp.alwaysdata.net](https://cuniapp.alwaysdata.net)
-- 💬 **[Tulk](https://github.com/lionel-hue/Tulk)**: A premium glassmorphic social platform featuring real-time messaging and advanced theme management.
-  - 🔗 **Live:** [tulk-phi.vercel.app](https://tulk-phi.vercel.app)
-- 🎓 **[AcademVault](https://github.com/lionel-hue/AcademVault)**: An intelligent academic research platform for discovering, organizing, and sharing academic resources. Features all-in-one search, secure encrypted vaults, and research analytics.
-  - 🔗 **Live:** [academvault-front.vercel.app](https://academvault-front.vercel.app)
-- 🛒 **[ViteComm](https://github.com/1i0ne1/ViteComm)**: A full-stack multi-vendor e-commerce marketplace built for the Benin market. Features real-time order tracking, Mobile Money payments (MTN MoMo), role-based dashboards, and a complete delivery logistics system.
-  - 🔗 **Live:** [vitecomm.vercel.app](https://vitecomm.vercel.app/)
-- 🏫 **[vDeskConnect](https://github.com/1i0ne1/vDeskConnect)**: A state-of-the-art, multi-tenant SMS & LMS. Built for the modern educational era, it empowers institutions worldwide to manage their entire academic lifecycle with AI-powered tools.
-  - 🔗 **Live:** [vdeskconnect.vercel.app](https://vdeskconnect.vercel.app/)
+### Full-Stack Web Applications
+From e-commerce marketplaces to social platforms and educational systems — I build complete, deployable products with a focus on architecture, performance, and user experience.
+
+### CI/CD & DevOps
+I practice continuous integration and continuous deployment using **GitHub Actions**, automated testing, Docker containerization, and cloud deployment (Fly.io, Vercel). I set up pipelines that automate builds, tests, and deployments.
 
 ---
-
 
 ## 🛠️ Technical Skills
 
@@ -63,6 +60,8 @@ I build production-ready applications with a focus on architecture, performance,
 - **UML/Merise Diagramming**
 - **Project Management**
 - **UI/UX Design**
+- **CI/CD Pipelines**
+- **Multi-Tenant SaaS Architecture**
 
 ### Technologies
 
@@ -72,6 +71,7 @@ I build production-ready applications with a focus on architecture, performance,
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB7021?style=flat-square&logo=livewire&logoColor=white)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -83,6 +83,10 @@ I build production-ready applications with a focus on architecture, performance,
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+**DevOps & CI/CD**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -103,7 +107,7 @@ I build production-ready applications with a focus on architecture, performance,
   <a href="https://www.linkedin.com/in/lionel-sisso-b3b8342a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/lionel-hue">
+  <a href="https://github.com/1i0ne1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
