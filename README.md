@@ -4,7 +4,7 @@
 *Turning manual processes into automated solutions*
 
 <div align="center">
-  <a href="https://lionel-hue.github.io/portfolio/">
+  <a href="https://devlionel.vercel.app">
     <img src="https://img.shields.io/badge/🌐_View_My_Live-Portfolio-10B981?style=for-the-badge" alt="Live Portfolio" />
   </a>
 </div>
@@ -117,7 +117,7 @@ I practice continuous integration and continuous deployment using **GitHub Actio
 ## 📬 Connect
 
 <div align="center">
-  <a href="https://lionel-hue.github.io/portfolio/">
+  <a href="https://devlionel.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/lionel-sisso-b3b8342a6/">
