@@ -51,6 +51,18 @@ From e-commerce marketplaces to social platforms and educational systems — I b
 ### CI/CD & DevOps
 I practice continuous integration and continuous deployment using **GitHub Actions**, automated testing, Docker containerization, and cloud deployment (Fly.io, Vercel). I set up pipelines that automate builds, tests, and deployments.
 
+### 🌐 Online Hosted Projects
+- 🐰 **CuniApp** — SaaS CRM for rabbit breeding management
+  - 🔗 **Live:** [cuniapp.alwaysdata.net](https://cuniapp.alwaysdata.net)
+- 💬 **Tulk** — Glassmorphic social platform with real-time messaging
+  - 🔗 **Live:** [tulk-phi.vercel.app](https://tulk-phi.vercel.app)
+- 🎓 **AcademVault** — Intelligent academic research platform
+  - 🔗 **Live:** [academvault-front.vercel.app](https://academvault-front.vercel.app)
+- 🛒 **ViteComm** — Full-stack multi-vendor e-commerce marketplace
+  - 🔗 **Live:** [vitecomm.vercel.app](https://vitecomm.vercel.app/)
+- 🏫 **vDeskConnect** — Multi-tenant SMS & LMS for education
+  - 🔗 **Live:** [vdeskconnect.vercel.app](https://vdeskconnect.vercel.app/)
+
 ---
 
 ## 🛠️ Technical Skills
