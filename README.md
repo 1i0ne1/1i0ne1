@@ -26,13 +26,14 @@
 
 ## 👨‍💻 About Me
 
-I specialize in transforming real-world manual processes into efficient software solutions. With expertise in data modelling, design patterns, and modern engineering practices, I build effective systems for various sectors including education, finance, entertainment, and commerce.
+I specialize in transforming real-world manual processes into efficient software solutions. With expertise in data modelling, design patterns, and modern engineering practices, I build systems that organizations actually rely on — from insurance commission platforms serving 150+ daily users to school management systems powering 300+ students and staff.
 
-I'm constantly evolving my skills to create robust systems based on solid architectural principles.
+My applications are live in production across multiple sectors including education, finance, and insurance. I'm constantly evolving my skills to create robust, scalable systems based on solid architectural principles.
 
 **I'm also...**
 - A full-stack developer passionate about clean architecture
 - A CRM & ERP SaaS builder — I design multi-tenant platforms for real businesses
+- Building systems trusted by real organizations in production
 - Practicing CI/CD with GitHub Actions, automated testing, and deployment pipelines
 - An adaptable learner focused on web development and problem-solving
 - Open to collaborations that challenge and expand my abilities
@@ -45,6 +46,9 @@ I'm constantly evolving my skills to create robust systems based on solid archit
 ### CRM & ERP SaaS Platforms
 I build production-ready **CRM** and **ERP SaaS** applications tailored for African markets — handling client management, subscriptions, inventory, sales, invoicing, and AI-powered analytics. Multi-tenant architecture, role-based access, payment gateway integrations (Mobile Money, Wave), and automated notifications (SMS, WhatsApp, Email).
 
+### Insurance & FinTech Platforms
+I build systems that automate complex financial workflows — from commission lifecycle management to Mobile Money payment integration. Platforms that reduce manual overhead and deliver same-day payouts.
+
 ### Full-Stack Web Applications
 From e-commerce marketplaces to social platforms and educational systems — I build complete, deployable products with a focus on architecture, performance, and user experience.
 
@@ -52,6 +56,16 @@ From e-commerce marketplaces to social platforms and educational systems — I b
 I practice continuous integration and continuous deployment using **GitHub Actions**, automated testing, Docker containerization, and cloud deployment (Fly.io, Vercel). I set up pipelines that automate builds, tests, and deployments.
 
 ### 🌐 Online Hosted Projects
+
+- 💼 **Commission Express** — Automated insurance commission management & Mobile Money payment platform for NSIA Assurances Bénin. Handles policy imports from Ixperta, commission calculations, budget control, and same-day advisor payouts via KKiaPay (MTN MoMo, Celtiis, Moov). Currently in production with 150+ daily users.
+  - 🔗 **Live:** [comxpress.nsiavivo.com](https://comxpress.nsiavivo.com)
+
+- 🏫 **vDeskConnect** — Multi-tenant School Management System & Learning Management System. Covers the full academic lifecycle: sessions, terms, grading, schemes of work, lesson notes, AI-powered content generation, lectures (sync/async/hybrid), exams, report cards, and fees. Deployed and actively used by Distinction Gate College, Nigeria — serving 300+ students and 20+ staff.
+  - 🔗 **Live:** [vdeskconnect.vercel.app](https://vdeskconnect.vercel.app/)
+
+- 🛒 **ViteComm** — Full-stack multi-vendor e-commerce marketplace built for the Benin market. Features real-time order tracking, Mobile Money payments (MTN MoMo), role-based dashboards, and a complete delivery logistics system.
+  - 🔗 **Live:** [vitecomm.vercel.app](https://vitecomm.vercel.app/)
+
 - 🐰 **CuniApp** — SaaS CRM for rabbit breeding management
   - 🔗 **Live:** [cuniapp.alwaysdata.net](https://cuniapp.alwaysdata.net)
 
@@ -60,12 +74,6 @@ I practice continuous integration and continuous deployment using **GitHub Actio
 
 - 🎓 **AcademVault** — Intelligent academic research platform
   - 🔗 **Live:** [academvault-front.vercel.app](https://academvault-front.vercel.app)
-
-- 🛒 **ViteComm** — Full-stack multi-vendor e-commerce marketplace
-  - 🔗 **Live:** [vitecomm.vercel.app](https://vitecomm.vercel.app/)
-
-- 🏫 **vDeskConnect** — Multi-tenant SMS & LMS for education
-  - 🔗 **Live:** [vdeskconnect.vercel.app](https://vdeskconnect.vercel.app/)
 
 ---
 
